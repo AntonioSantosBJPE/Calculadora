@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+
+.theme-1:root {
+  --color-brand-1: rgb(209,63,48);
+  --color-grey-1:  rgb(24,31,50);   /* cor do display  */
+  --color-grey-2:  rgb(37,45,68);   /* cor do fundo dos botões */
+  --color-grey-3:  rgb(59,70,100);  /* cor do fundo geral */
+  --color-grey-4:  rgb(100,114,153); /* cor do fundo dos botoes reset e del */
+  --color-grey-5:  rgb(234,227,219);/* cor do fundo dos botoes numericos*/
+  --color-grey-6:  white;
+  --color-text-1: rgb(37,45,68) ;   /* texto no nos butões numericos */
+  --color-text-2:  white;  /* texto no display da calc */
+  --color-text-3:  rgb(234,227,219);   /* texto nos botões del e reset */
+  --color-text-4: rgb(234,227,219); /* texto no botões = */
+}
+
+.theme-2:root {
+  --color-brand-1: rgb(200,84,1);
+  --color-grey-1:  rgb(238,238,238); /* cor do display  */
+  --color-grey-2:  rgb(211,205,205);/* cor do fundo dos botões */
+  --color-grey-3:  rgb(230,230,230);/* cor do fundo geral */
+  --color-grey-4:  rgb(56,129,135);/* cor do fundo dos botoes reset e del */
+  --color-grey-5:  rgb(234,227,219);/* cor do fundo dos botoes numericos*/
+  --color-grey-6:  rgb(61,60,55);
+  --color-text-1: rgb(37,45,68) ;   /* texto no nos butões numericos */
+  --color-text-2:  rgb(37,45,68);  /* texto no display da calc */
+  --color-text-3:  rgb(234,227,219);   /* texto nos botões del e reset */
+  --color-text-4: rgb(234,227,219); /* texto no botões = */
+}
+
+.theme-3:root {
+  --color-brand-1: rgb(0,225,208);
+  --color-grey-1:  rgb(30,8,54);   /* cor do display  */
+  --color-grey-2:  rgb(31,9,54);   /* cor do fundo dos botões */
+  --color-grey-3:  rgb(23,6,42);  /* cor do fundo geral */
+  --color-grey-4:  rgb(85,8,124); /* cor do fundo dos botoes reset e del */
+  --color-grey-5:  rgb(51,27,79);/* cor do fundo dos botoes numericos*/
+  --color-grey-6:  white;
+  --color-text-1: rgb(239,217,83) ;   /* texto no nos butões numericos */
+  --color-text-2:  rgb(239,217,83);  /* texto no display da calc */
+  --color-text-3:  rgb(234,227,219);   /* texto nos botões del e reset */
+  --color-text-4: rgb(23,6,42); /* texto no botões = */
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--color-grey-5);
+}
+
+
