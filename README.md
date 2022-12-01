@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-Projeto de uma calculadora simples, capaz de realizar as quatro operações básicas da matemática: soma, subtração, divisão e multiplicação. Este projeto foi inspirado no projeto desenvolvido pelo site  <a href="https://github.com/AntonioSantosBJPE/Calculadora/edit/main/README.md" target="_blank"> Frontend Mentor</a>
+Projeto de uma calculadora simples, capaz de realizar as quatro operações básicas da matemática: soma, subtração, divisão e multiplicação. Este projeto foi inspirado no projeto desenvolvido pelo site  <a href="https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29" target="_blank"> Frontend Mentor</a>
 
 ## :books: Funcionalidades
 
