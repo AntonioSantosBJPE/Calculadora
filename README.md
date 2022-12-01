@@ -7,7 +7,9 @@ Escreva uma descrição do seu projeto
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
 
 ## :wrench: Tecnologias utilizadas
-* Tecnologia;
+* HTML;
+* CSS;
+* JavaScript;
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -15,8 +17,8 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <linha de comando>
 ```
 
-## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+<!-- ## :soon: Implementação futura
+* O que será implementado na próxima sprint? -->
 
 ## :handshake: Colaboradores
 <table>
@@ -25,7 +27,7 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
       <a href="https://github.com/AntonioSantosBJPE">
         <img src="https://avatars.githubusercontent.com/u/110032374?v=4" width="100px;" alt="Foto de Antonio Santos no GitHub"/><br>
         <sub>
-          <b>tatialveso</b>
+          <b>Antonio Santos</b>
         </sub>
       </a>
     </td>
@@ -33,3 +35,4 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 </table>
 
 ## :dart: Status do projeto
+*Finalizado
