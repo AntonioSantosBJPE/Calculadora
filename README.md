@@ -4,19 +4,20 @@
 Escreva uma descrição do seu projeto
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+* <b>Funcionalidade alternar o tema visual da página</b>: Esta funcionalidade torna possível alternar entre 3 modelos visuais, ao clicar no botão 1,2 ou 3, como mostra a imagem a seguir: 
 
 ## :wrench: Tecnologias utilizadas
 * HTML;
 * CSS;
 * JavaScript;
 
+<!--
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 <linha de comando>
 ```
-
+-->
 <!-- ## :soon: Implementação futura
 * O que será implementado na próxima sprint? -->
 
