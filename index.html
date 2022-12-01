@@ -1,85 +1,76 @@
 <!DOCTYPE html>
 <html lang="pt-br" class="theme-1">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="./assets/img/icon_6a7ee4c11ca1804efa54131597c7c810.ico"
+      type="image/x-icon"
+    />
 
-    <!-- ------------------CSS------------------------ -->
-    <link rel="stylesheet" href="styles/globalStyles.css">
-    <link rel="stylesheet" href="styles/flex.css">
-    <link rel="stylesheet" href="styles/index.css">
-    <link rel="stylesheet" href="styles/navbar.css">
-    <link rel="stylesheet" href="styles/buttons.css">
-    <link rel="stylesheet" href="styles/inputs.css">
-    <link rel="stylesheet" href="styles/dimensions.css">
-    <link rel="stylesheet" href="styles/borders.css">
-    <link rel="stylesheet" href="styles/fonts.css">
-    <link rel="stylesheet" href="styles/colors.css">
-    <link rel="stylesheet" href="styles/animations.css">
-     <!-- --------------------------------------------- -->
-    <title>index</title>
+    <link rel="stylesheet" href="styles/globalStyles.css" />
+    <link rel="stylesheet" href="styles/flex.css" />
+    <link rel="stylesheet" href="styles/index.css" />
+    <link rel="stylesheet" href="styles/dimensions.css" />
+    <link rel="stylesheet" href="styles/borders.css" />
+    <link rel="stylesheet" href="styles/fonts.css" />
+    <link rel="stylesheet" href="styles/colors.css" />
 
-</head>
+    <title>Calculadora</title>
+  </head>
 
-<body>
-
-
-
+  <body>
     <div class="container flex flex-col items-center justify-center">
-
-     
-   <div class="box-up flex justify-between items-center">
-   
-    <div class="box-up-left flex justify-between items-end">
-        <h4>calc</h4>
-        <div class="flex items-center">
+      <div class="box-up flex justify-between items-center">
+        <div class="box-up-left flex justify-between items-end">
+          <h4>calc</h4>
+          <div class="flex items-center">
             <h6>THEME</h6>
+          </div>
         </div>
-    </div>
 
-    <div class="box-up-right flex flex-col">
-        <div class="box-theme-numbers flex justify-between">
+        <div class="box-up-right flex flex-col">
+          <div class="box-theme-numbers flex justify-between">
             <h6>1</h6>
             <h6>2</h6>
             <h6>3</h6>
-        </div>
-        <div class="box-selected-theme flex items-center  ">
+          </div>
+          <div class="box-selected-theme flex items-center">
             <div class="box-selected-theme-left bg-color-brand-1"></div>
             <div class="box-selected-theme-center"></div>
             <div class="box-selected-theme-right"></div>
+          </div>
         </div>
+      </div>
+
+      <div
+        class="display-calc flex items-center justify-end"
+        id="display-calc"
+      ></div>
+
+      <div class="container-btns">
+        <button class="button btn-numeric" value="7">7</button>
+        <button class="button btn-numeric" value="8">8</button>
+        <button class="button btn-numeric" value="9">9</button>
+        <button class="button" id="btn-del">DEL</button>
+        <button class="button btn-numeric" value="4">4</button>
+        <button class="button btn-numeric" value="5">5</button>
+        <button class="button btn-numeric" value="6">6</button>
+        <button class="button btn-operators" value="+">+</button>
+        <button class="button btn-numeric" value="1">1</button>
+        <button class="button btn-numeric" value="2">2</button>
+        <button class="button btn-numeric" value="3">3</button>
+        <button class="button btn-operators" value="-">-</button>
+        <button class="button" id="btn-dot" value=".">.</button>
+        <button class="button btn-numeric" value="0">0</button>
+        <button class="button btn-operators" value="/">/</button>
+        <button class="button btn-operators" value="x">x</button>
+        <button class="button folded-size" id="btn-reset">RESET</button>
+        <button class="button folded-size" id="btn-equal">=</button>
+      </div>
     </div>
-
-   </div>
-
-
-    <div class="display-calc flex items-center justify-end" id="display-calc"></div>
- 
-    <div class="container-btns">
-    
-    <button class="button btn-numeric" value="7">7</button>
-    <button class="button btn-numeric" value="8">8</button>
-    <button class="button btn-numeric" value="9">9</button>
-    <button class="button" id="btn-del">DEL</button>
-    <button class="button btn-numeric" value="4">4</button>
-    <button class="button btn-numeric" value="5">5</button>
-    <button class="button btn-numeric" value="6">6</button>
-    <button class="button btn-operators" value="+">+</button>
-    <button class="button btn-numeric" value="1">1</button>
-    <button class="button btn-numeric" value="2">2</button>
-    <button class="button btn-numeric" value="3">3</button>
-    <button class="button btn-operators" value="-">-</button>
-    <button class="button " id="btn-dot" value=".">.</button>
-    <button class="button btn-numeric" value="0">0</button>
-    <button class="button btn-operators" value="/">/</button>
-    <button class="button btn-operators" value="x">x</button>
-    <button class="button folded-size" id="btn-reset">RESET</button>
-    <button class="button folded-size" id="btn-equal">=</button>
-
-    </div>
-</div>
     <script src="scripts/index.js"></script>
-</body>
-
+  </body>
 </html>

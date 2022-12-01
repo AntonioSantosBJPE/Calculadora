@@ -1,15 +1,30 @@
 <h1 align="center">:file_cabinet: CalculadoraApp</h1>
 
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+
+Projeto de uma calculadora simples, capaz de realizar as quatro operações básicas da matemática: soma, subtração, divisão e multiplicação
 
 ## :books: Funcionalidades
-* <b>Funcionalidade alternar o tema visual da página</b>: Esta funcionalidade torna possível alternar entre 3 modelos visuais, ao clicar no botão 1,2 ou 3, como mostra a imagem a seguir: 
+
+- <b>Funcionalidade alternar o tema visual da página</b>: Esta funcionalidade torna possível alternar entre 3 modelos visuais, ao clicar no botão 1,2 ou 3, na parte superior da calculadora;
+- <b>Funcionalidade operações básicas</b>: A calculadora torna possível realizar as 4 operações básicas da matemática: soma (+), subtração (-), multiplicação (x) e divisão (/);
+- <b>Funcionalidade apagar último caracter do display</b>: Ao clickar no botão (DEL) é apagado o último caracter do display, tanto números , quanto operações;
+- <b>Funcionalidade apagar todo o display</b>: Ao clickar no botão (RESET) é apagado todo o display;
 
 ## :wrench: Tecnologias utilizadas
-* HTML;
-* CSS;
-* JavaScript;
+
+- HTML;
+- CSS;
+- JavaScript;
+
+## :rocket: Rodando o projeto
+
+Para rodar o repositório é necessário clonar o mesmo, e abrir o mesmo em um servidor local, como por exemplo, o liveServer do vsCode;
+
+## :soon: Implementação futura
+
+- Na segunda atualização do projeto, o mesmo será refeito utilizando a biblioteca react;
+- Na terceira atualizaçãod o projeto, será adicionada as funcionalidades presentes em uma calculadora cientifíca;
 
 <!--
 ## :rocket: Rodando o projeto
@@ -21,7 +36,8 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <!-- ## :soon: Implementação futura
 * O que será implementado na próxima sprint? -->
 
-## :handshake: Colaboradores
+## :handshake: Autor
+
 <table>
   <tr>
     <td align="center">
@@ -36,4 +52,5 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 </table>
 
 ## :dart: Status do projeto
-*Finalizado
+
+\*Finalizado
