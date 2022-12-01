@@ -24,7 +24,7 @@ Para rodar o repositório é necessário clonar o mesmo, e abrir o mesmo em um s
 ## :soon: Implementação futura
 
 - Na segunda atualização do projeto, o mesmo será refeito utilizando a biblioteca react;
-- Na terceira atualizaçãod o projeto, será adicionada as funcionalidades presentes em uma calculadora cientifíca;
+- Na terceira atualização do projeto, serão adicionadas as funcionalidades presentes em uma calculadora cientifíca;
 
 <!--
 ## :rocket: Rodando o projeto
