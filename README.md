@@ -23,7 +23,7 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
   <tr>
     <td align="center">
       <a href="https://github.com/AntonioSantosBJPE">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/110032374?v=4" width="100px;" alt="Foto de Antonio Santos no GitHub"/><br>
         <sub>
           <b>tatialveso</b>
         </sub>
